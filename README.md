@@ -10,6 +10,8 @@ $ sudo apt install git
 
 $ git clone https://github.com/Kerolos-Osama-Kamal/Network-Tool
 
+$ pip3 install python-nmap
+
 $ cd Network-Tool
 
 $ python3 Network.py
