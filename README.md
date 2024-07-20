@@ -11,11 +11,11 @@ Scanner --> Make a port Scanning by Getting the Ports Range and the IP Address
 
 $ sudo apt install git
 
-$ git clone https://github.com/Kerolos0x1/Network-Tool
+$ git clone https://github.com/Kerolos0x1/Network-Monitoring-and-Port-Scanning-Tool
 
 $ pip3 install python-nmap
 
-$ cd Network-Tool
+$ cd Network-Monitoring-and-Port-Scanning-Tool
 
 $ python3 Network.py
 
